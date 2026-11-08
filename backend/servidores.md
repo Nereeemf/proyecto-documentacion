@@ -1,8 +1,8 @@
-\# Servidores web
+# Servidores web
 
 
 
-\## ¿Qué es un servidor web?
+## ¿Qué es un servidor web?
 
 
 
@@ -10,7 +10,7 @@ Un servidor web es un sistema que almacena y proporciona páginas y contenidos a
 
 
 
-\## Funcionamiento
+## Funcionamiento
 
 
 
@@ -18,29 +18,29 @@ Cuando un usuario entra en una página web:
 
 
 
-1\. El navegador envía una petición.
+1. El navegador envía una petición.
 
-2\. El servidor recibe la petición.
+2. El servidor recibe la petición.
 
-3\. El servidor procesa la solicitud.
+3. El servidor procesa la solicitud.
 
-4\. El servidor devuelve una respuesta al navegador.
-
-
-
-\## Tipos de servidores
+4. El servidor devuelve una respuesta al navegador.
 
 
 
-\- \*\*Apache:\*\* servidor web muy utilizado.
-
-\- \*\*Nginx:\*\* servidor conocido por su rendimiento.
-
-\- \*\*Microsoft IIS:\*\* servidor web desarrollado por Microsoft.
+## Tipos de servidores
 
 
 
-\## Importancia
+- **Apache:** servidor web muy utilizado.
+
+- **Nginx:** servidor conocido por su rendimiento.
+
+- **Microsoft IIS:** servidor web desarrollado por Microsoft.
+
+
+
+## Importancia
 
 
 
@@ -48,7 +48,7 @@ Los servidores permiten que las páginas y aplicaciones web estén disponibles p
 
 
 
-\## Configuración de servidores
+## Configuración de servidores
 
 
 
