@@ -54,10 +54,10 @@ Nerea
 
 - [APIs REST](backend/apis-rest.md)
 
-\- \[Seguridad](backend/seguridad.md)
+- [Seguridad](backend/seguridad.md)
 
-\### Recursos
+### Recursos
 
-\- \[Glosario de desarrollo web](recursos/glosario.md)
+- [Glosario de desarrollo web](recursos/glosario.md)
 
 Proyecto realizado para aprender a utilizar Git y GitHub.
