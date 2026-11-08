@@ -1,8 +1,8 @@
-\# Tecnologías actuales del desarrollo web
+# Tecnologías actuales del desarrollo web
 
 
 
-\## HTML
+## HTML
 
 
 
@@ -10,7 +10,7 @@ HTML es el lenguaje que se utiliza para crear la estructura y el contenido de un
 
 
 
-\## CSS
+## CSS
 
 
 
@@ -18,7 +18,7 @@ CSS permite dar estilo a las páginas web, modificando colores, tamaños, fuente
 
 
 
-\## JavaScript
+## JavaScript
 
 
 
@@ -26,7 +26,7 @@ JavaScript permite añadir interactividad y funciones dinámicas a las páginas 
 
 
 
-\## Frameworks y herramientas
+## Frameworks y herramientas
 
 
 
@@ -34,15 +34,15 @@ Algunas herramientas utilizadas actualmente son:
 
 
 
-\- React: biblioteca de JavaScript para crear interfaces.
+- React: biblioteca de JavaScript para crear interfaces.
 
-\- Angular: framework para desarrollar aplicaciones web.
+- Angular: framework para desarrollar aplicaciones web.
 
-\- Node.js: entorno que permite ejecutar JavaScript en el servidor.
+- Node.js: entorno que permite ejecutar JavaScript en el servidor.
 
 
 
-\## Importancia
+## Importancia
 
 
 
