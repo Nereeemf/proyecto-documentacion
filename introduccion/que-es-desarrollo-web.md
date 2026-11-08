@@ -1,8 +1,8 @@
-\# ¿Qué es el desarrollo web?
+# ¿Qué es el desarrollo web?
 
 
 
-\## Definición
+## Definición
 
 
 
@@ -14,29 +14,29 @@ Permite crear sitios web para informar, comunicarse, comprar productos o utiliza
 
 
 
-\## Tipos de desarrollo web
+## Tipos de desarrollo web
 
 
 
-\- \*\*Frontend:\*\* es la parte visual de una página web, con la que interactúa el usuario.
+- **Frontend:** es la parte visual de una página web, con la que interactúa el usuario.
 
-\- \*\*Backend:\*\* es la parte interna que gestiona los datos y el funcionamiento de la aplicación.
-
-
-
-\## Tecnologías utilizadas
+- **Backend:** es la parte interna que gestiona los datos y el funcionamiento de la aplicación.
 
 
 
-\- HTML: estructura de la página.
-
-\- CSS: diseño y apariencia.
-
-\- JavaScript: interactividad.
+## Tecnologías utilizadas
 
 
 
-\## Importancia
+- HTML: estructura de la página.
+
+- CSS: diseño y apariencia.
+
+- JavaScript: interactividad.
+
+
+
+## Importancia
 
 
 
