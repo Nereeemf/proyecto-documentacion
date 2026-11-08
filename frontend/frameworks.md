@@ -1,8 +1,8 @@
-\# Frameworks de desarrollo web
+# Frameworks de desarrollo web
 
 
 
-\## ¿Qué es un framework?
+## ¿Qué es un framework?
 
 
 
@@ -10,35 +10,35 @@ Un framework es una estructura de herramientas y reglas que facilita el desarrol
 
 
 
-\## Frameworks y bibliotecas populares
+## Frameworks y bibliotecas populares
 
 
 
-\- \*\*React:\*\* biblioteca de JavaScript utilizada para crear interfaces de usuario.
+- **React:** biblioteca de JavaScript utilizada para crear interfaces de usuario.
 
-\- \*\*Angular:\*\* framework para desarrollar aplicaciones web.
+- **Angular:** framework para desarrollar aplicaciones web.
 
-\- \*\*Vue.js:\*\* framework progresivo para crear interfaces.
+- **Vue.js:** framework progresivo para crear interfaces.
 
-\- \*\*Bootstrap:\*\* herramienta que facilita el diseño de páginas web adaptables.
-
-
-
-\## Ventajas
+- **Bootstrap:** herramienta que facilita el diseño de páginas web adaptables.
 
 
 
-\- Facilitan el trabajo de los desarrolladores.
-
-\- Permiten reutilizar código.
-
-\- Ayudan a organizar los proyectos.
-
-\- Reducen el tiempo de desarrollo.
+## Ventajas
 
 
 
-\## Importancia
+- Facilitan el trabajo de los desarrolladores.
+
+- Permiten reutilizar código.
+
+- Ayudan a organizar los proyectos.
+
+- Reducen el tiempo de desarrollo.
+
+
+
+## Importancia
 
 
 
