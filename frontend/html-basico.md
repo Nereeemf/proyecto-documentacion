@@ -1,8 +1,8 @@
-\# HTML básico
+# HTML básico
 
 
 
-\## ¿Qué es HTML?
+## ¿Qué es HTML?
 
 
 
@@ -10,29 +10,29 @@ HTML es un lenguaje de marcado que se utiliza para crear la estructura de las p�
 
 
 
-\## Elementos principales
+## Elementos principales
 
 
 
-\- `<html>`: elemento principal de una página.
+- `<html>`: elemento principal de una página.
 
-\- `<head>`: contiene información sobre la página.
+- `<head>`: contiene información sobre la página.
 
-\- `<title>`: establece el título de la página.
+- `<title>`: establece el título de la página.
 
-\- `<body>`: contiene el contenido visible.
+- `<body>`: contiene el contenido visible.
 
-\- `<h1>`: crea un encabezado.
+- `<h1>`: crea un encabezado.
 
-\- `<p>`: permite escribir párrafos.
+- `<p>`: permite escribir párrafos.
 
-\- `<a>`: crea enlaces.
+- `<a>`: crea enlaces.
 
-\- `<img>`: permite insertar imágenes.
+- `<img>`: permite insertar imágenes.
 
 
 
-\## Ejemplo de HTML
+## Ejemplo de HTML
 
 
 
@@ -40,7 +40,7 @@ Una página básica puede contener un título, varios párrafos e imágenes.
 
 
 
-\## Importancia
+## Importancia
 
 
 
