@@ -46,3 +46,9 @@ Una página básica puede contener un título, varios párrafos e imágenes.
 
 HTML es fundamental en el desarrollo web porque permite organizar el contenido de cualquier página.
 
+## Formularios HTML
+
+HTML permite crear formularios para recoger información de los usuarios.
+
+Se pueden utilizar elementos como input, button y form para crear formularios interactivos.
+
