@@ -1,4 +1,4 @@
-\# Guía Completa de Desarrollo Web - Versión B
+# Guía Completa de Desarrollo Web
 
 
 
