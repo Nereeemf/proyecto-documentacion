@@ -46,3 +46,21 @@ La seguridad web consiste en proteger las páginas, aplicaciones y datos frente 
 
 La seguridad web permite proteger la información de los usuarios y garantizar el correcto funcionamiento de las aplicaciones.
 
+
+
+\## Buenas prácticas de seguridad
+
+
+
+Para proteger una página web es importante:
+
+
+
+\- Utilizar contraseñas seguras.
+
+\- Mantener el software actualizado.
+
+\- Utilizar HTTPS para proteger la comunicación.
+
+\- Realizar copias de seguridad periódicas.
+
