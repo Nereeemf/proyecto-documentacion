@@ -46,3 +46,15 @@ Cuando un usuario entra en una página web:
 
 Los servidores permiten que las páginas y aplicaciones web estén disponibles para los usuarios.
 
+
+
+\## Configuración de servidores
+
+
+
+Para utilizar un servidor web es necesario configurarlo correctamente.
+
+
+
+También es importante mantenerlo actualizado y controlar los accesos para garantizar su seguridad.
+
