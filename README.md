@@ -2,7 +2,7 @@
 
 
 
-\## Descripción
+## Descripción
 
 Este proyecto contiene una guía completa sobre el desarrollo web.
 
@@ -14,45 +14,45 @@ Su objetivo es servir como documentación de consulta.
 
 
 
-\## Autor
+## Autor
 
 Nerea
 
 
 
-\## Fecha
+## Fecha
 
 8 de noviembre de 2026
 
 
 
-\## Tabla de contenidos
+## Tabla de contenidos
 
-\### Introducción
+### Introducción
 
-\- \[¿Qué es el desarrollo web?](introduccion/que-es-desarrollo-web.md)
+- [¿Qué es el desarrollo web?](introduccion/que-es-desarrollo-web.md)
 
-\- \[Historia del desarrollo web](introduccion/historia.md)
+- [Historia del desarrollo web](introduccion/historia.md)
 
-\- \[Tecnologías actuales](introduccion/tecnologias-actuales.md)
+- [Tecnologías actuales](introduccion/tecnologias-actuales.md)
 
-\### Frontend
+### Frontend
 
-\- \[HTML básico](frontend/html-basico.md)
+- [HTML básico](frontend/html-basico.md)
 
-\- \[CSS avanzado](frontend/css-avanzado.md)
+- [CSS avanzado](frontend/css-avanzado.md)
 
-\- \[JavaScript moderno](frontend/javascript-moderno.md)
+- [JavaScript moderno](frontend/javascript-moderno.md)
 
-\- \[Frameworks](frontend/frameworks.md)
+- [Frameworks](frontend/frameworks.md)
 
-\### Backend
+### Backend
 
-\- \[Servidores web](backend/servidores.md)
+- [Servidores web](backend/servidores.md)
 
-\- \[Bases de datos](backend/bases-de-datos.md)
+- [Bases de datos](backend/bases-de-datos.md)
 
-\- \[APIs REST](backend/apis-rest.md)
+- [APIs REST](backend/apis-rest.md)
 
 \- \[Seguridad](backend/seguridad.md)
 
