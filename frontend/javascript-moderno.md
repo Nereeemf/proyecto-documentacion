@@ -1,8 +1,8 @@
-\# JavaScript moderno
+# JavaScript moderno
 
 
 
-\## ¿Qué es JavaScript?
+## ¿Qué es JavaScript?
 
 
 
@@ -10,21 +10,21 @@ JavaScript es un lenguaje de programación que permite añadir interactividad y 
 
 
 
-\## Características principales
+## Características principales
 
 
 
-\- Permite responder a las acciones de los usuarios.
+- Permite responder a las acciones de los usuarios.
 
-\- Puede modificar el contenido de una página.
+- Puede modificar el contenido de una página.
 
-\- Permite validar formularios.
+- Permite validar formularios.
 
-\- Facilita la creación de aplicaciones interactivas.
+- Facilita la creación de aplicaciones interactivas.
 
 
 
-\## Funciones y variables
+## Funciones y variables
 
 
 
@@ -32,7 +32,7 @@ JavaScript utiliza variables para almacenar información y funciones para ejecut
 
 
 
-\## Uso actual
+## Uso actual
 
 
 
@@ -40,7 +40,7 @@ Se utiliza tanto en el frontend como en el backend mediante herramientas como No
 
 
 
-\## Importancia
+## Importancia
 
 
 
@@ -48,7 +48,7 @@ JavaScript es uno de los lenguajes más importantes del desarrollo web porque pe
 
 
 
-\## Variables y funciones modernas
+## Variables y funciones modernas
 
 
 
@@ -56,9 +56,9 @@ En JavaScript se utilizan `let` y `const` para declarar variables.
 
 
 
-\- `let` permite cambiar el valor de una variable.
+- `let` permite cambiar el valor de una variable.
 
-\- `const` se utiliza cuando el valor no va a cambiar.
+- `const` se utiliza cuando el valor no va a cambiar.
 
 
 
