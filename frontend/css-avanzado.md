@@ -1,8 +1,8 @@
-\# CSS avanzado
+# CSS avanzado
 
 
 
-\## ¿Qué es CSS?
+## ¿Qué es CSS?
 
 
 
@@ -10,25 +10,25 @@ CSS es un lenguaje que permite definir el diseño y la apariencia de las página
 
 
 
-\## Propiedades principales
+## Propiedades principales
 
 
 
-\- `color`: cambia el color del texto.
+- `color`: cambia el color del texto.
 
-\- `background-color`: cambia el color de fondo.
+- `background-color`: cambia el color de fondo.
 
-\- `font-size`: modifica el tamaño de la letra.
+- `font-size`: modifica el tamaño de la letra.
 
-\- `margin`: establece el espacio exterior.
+- `margin`: establece el espacio exterior.
 
-\- `padding`: establece el espacio interior.
+- `padding`: establece el espacio interior.
 
-\- `border`: añade bordes a los elementos.
+- `border`: añade bordes a los elementos.
 
 
 
-\## Diseño avanzado
+## Diseño avanzado
 
 
 
@@ -40,7 +40,7 @@ También permite crear diseños adaptables a móviles, tabletas y ordenadores.
 
 
 
-\## Importancia
+## Importancia
 
 
 
