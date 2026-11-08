@@ -56,3 +56,7 @@ Nerea
 
 \- \[Seguridad](backend/seguridad.md)
 
+\### Recursos
+
+\- \[Glosario de desarrollo web](recursos/glosario.md)
+
