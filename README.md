@@ -60,3 +60,4 @@ Nerea
 
 \- \[Glosario de desarrollo web](recursos/glosario.md)
 
+Proyecto realizado para aprender a utilizar Git y GitHub.
