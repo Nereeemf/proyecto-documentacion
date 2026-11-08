@@ -22,3 +22,9 @@
 
 \- \*\*HTTPS:\*\* protocolo seguro para transmitir información por Internet.
 
+\- \*\*Dominio:\*\* nombre que identifica una página web en Internet.
+
+\- \*\*Hosting:\*\* servicio que permite almacenar una página web y hacerla accesible.
+
+\- \*\*Responsive design:\*\* diseño que adapta una página web a diferentes tamaños de pantalla.
+
