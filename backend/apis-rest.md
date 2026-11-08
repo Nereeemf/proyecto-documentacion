@@ -46,3 +46,19 @@ Las APIs REST suelen utilizar JSON para enviar y recibir información.
 
 Las APIs REST permiten conectar aplicaciones, servicios y bases de datos de forma organizada.
 
+
+
+\## Códigos de estado HTTP
+
+
+
+Los códigos HTTP indican el resultado de una petición:
+
+
+
+\- \*\*200:\*\* la petición se ha realizado correctamente.
+
+\- \*\*404:\*\* el recurso solicitado no se ha encontrado.
+
+\- \*\*500:\*\* se ha producido un error interno en el servidor.
+
