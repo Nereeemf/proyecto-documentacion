@@ -46,3 +46,8 @@ También permite crear diseños adaptables a móviles, tabletas y ordenadores.
 
 CSS es fundamental para conseguir páginas web atractivas, ordenadas y fáciles de utilizar.
 
+## Media queries
+
+Las media queries permiten adaptar el diseño de una página web según el tamaño de la pantalla.
+
+Se utilizan para conseguir que una página se vea correctamente en móviles, tabletas y ordenadores.
